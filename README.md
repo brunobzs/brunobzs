@@ -6,7 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobzs&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-https://www.youtube.com/channel/UC-EOsTo2l2x39e4JmSaWNRQ
 
 ### - Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
