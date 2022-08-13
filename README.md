@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Bruno, I'm a newcomer to the world of technology.
+### I'm Bruno, a newcomer to the world of technology.
 
 <div>
 <a href="https://github.com/brunobzs">
