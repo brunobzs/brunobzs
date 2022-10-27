@@ -6,11 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobzs&layout=compact&langs_count=7&theme=light"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobzs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
 
-  <a href="https://github.com/brunobzs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobzs&layout=compact&langs_count=7&theme=light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?        username=brunobzs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
-
 ### - Tools and Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
