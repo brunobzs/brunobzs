@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Bruno, a newcomer to the world of technology.
+### I'm Bruno, I am a QA with a focus on test automation.
 
 <div>
   <a href="https://github.com/brunobzs">
