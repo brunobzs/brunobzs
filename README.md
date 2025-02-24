@@ -8,7 +8,9 @@ My expertise in **test automation frameworks and data validation** allows me to 
 
 <div>
   <a href="https://github.com/brunobzs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobzs&layout=compact&langs_count=7&theme=light"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobzs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobzs&layout=compact&langs_count=7&theme=light"/>   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobzs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ### - Tools and Technologies
@@ -32,6 +34,5 @@ My expertise in **test automation frameworks and data validation** allows me to 
 ### - Contacts
 <div>
   <a href = "mailto:brunobzs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunocarvalhoeng" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/brunocarvalhoeng" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
