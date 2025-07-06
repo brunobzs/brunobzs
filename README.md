@@ -2,7 +2,7 @@
 
 ### 🚀 **QA Engineer | Test Automation | Mobile & Web Testing | Agile | CI/CD**  
 
-With over **3 years of experience in Quality Assurance (QA)** and test automation, I specialize in **validating software for web and mobile applications (iOS and Android)**. My goal is to ensure **reliable, high-quality products** by reducing test execution time and optimizing processes to deliver real business value.  
+With **experience in Quality Assurance (QA)** and test automation, I specialize in **validating software for web and mobile applications (iOS and Android)**. My goal is to ensure **reliable, high-quality products** by reducing test execution time and optimizing processes to deliver real business value.  
 
 My expertise in **test automation frameworks and data validation** allows me to provide **scalable solutions and seamless user experiences**. By leveraging **agile methodologies and cutting-edge tools**, I help optimize performance, boost productivity, and mitigate risks throughout the development lifecycle.  
 
